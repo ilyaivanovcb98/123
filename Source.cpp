@@ -4,7 +4,7 @@
 
 typedef struct {
 	int numer;
-	char name[16];
+	char name[17];
 	int kod;
 }KEY;
 
