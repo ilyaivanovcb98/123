@@ -1,10 +1,11 @@
+// parser for ini-file
 #include<stdlib.h>
 #include<string>
 #include<stdio.h>
 
 typedef struct {
 	int numer;
-	char name[17];
+	char name[16];
 	int kod;
 }KEY;
 
